@@ -1,0 +1,52 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2019.1.1f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=8273 outsize=1065 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=65748 outsize=2649 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10277 outsize=1905 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10277 outsize=1941 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=24974 outsize=10737 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=46033 outsize=1693 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=46033 outsize=1433 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=46033 outsize=1617 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=46033 outsize=1373 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=46033 outsize=1781 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=46033 outsize=1905 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=46033 outsize=2021 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4240 outsize=1485 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=30635 outsize=781 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=30635 outsize=949 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=30635 outsize=861 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=30635 outsize=817 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=30635 outsize=1301 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=30635 outsize=1493 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=30635 outsize=1385 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=30635 outsize=1341 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=30635 outsize=1285 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=30635 outsize=1349 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=30635 outsize=1373 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1596 outsize=2002 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _ALPHATEST_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
